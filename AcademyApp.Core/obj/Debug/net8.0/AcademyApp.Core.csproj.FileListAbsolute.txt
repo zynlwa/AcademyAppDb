@@ -1,0 +1,11 @@
+C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.Core\bin\Debug\net8.0\AcademyApp.Core.deps.json
+C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.Core\bin\Debug\net8.0\AcademyApp.Core.dll
+C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.Core\bin\Debug\net8.0\AcademyApp.Core.pdb
+C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.Core\obj\Debug\net8.0\AcademyApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.Core\obj\Debug\net8.0\AcademyApp.Core.AssemblyInfoInputs.cache
+C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.Core\obj\Debug\net8.0\AcademyApp.Core.AssemblyInfo.cs
+C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.Core\obj\Debug\net8.0\AcademyApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.Core\obj\Debug\net8.0\AcademyApp.Core.dll
+C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.Core\obj\Debug\net8.0\refint\AcademyApp.Core.dll
+C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.Core\obj\Debug\net8.0\AcademyApp.Core.pdb
+C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.Core\obj\Debug\net8.0\ref\AcademyApp.Core.dll
