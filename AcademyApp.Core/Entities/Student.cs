@@ -11,5 +11,6 @@ namespace AcademyApp.Core.Entities
         public StudentStatus Status { get; set; } = StudentStatus.Active;
         public int GroupId { get; set; }
         public Group Group { get; set; }
+        
     }
 }

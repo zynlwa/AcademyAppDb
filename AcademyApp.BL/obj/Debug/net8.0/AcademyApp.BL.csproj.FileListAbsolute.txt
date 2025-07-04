@@ -15,3 +15,4 @@ C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.BL\bin\Debug\net8.0\AcademyApp
 C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.BL\bin\Debug\net8.0\AcademyApp.Core.pdb
 C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.BL\obj\Debug\net8.0\AcademyApp.BL.csproj.AssemblyReference.cache
 C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.BL\obj\Debug\net8.0\AcademyA.EB6E1431.Up2Date
+C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.BL\obj\Debug\net8.0\AcademyApp.BL.sourcelink.json

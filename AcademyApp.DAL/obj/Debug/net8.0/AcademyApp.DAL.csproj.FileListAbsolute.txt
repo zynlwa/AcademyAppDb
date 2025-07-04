@@ -15,3 +15,4 @@ C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.DAL\obj\Debug\net8.0\refint\Ac
 C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.DAL\obj\Debug\net8.0\AcademyApp.DAL.pdb
 C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.DAL\obj\Debug\net8.0\AcademyApp.DAL.genruntimeconfig.cache
 C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.DAL\obj\Debug\net8.0\ref\AcademyApp.DAL.dll
+C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.DAL\obj\Debug\net8.0\AcademyApp.DAL.sourcelink.json

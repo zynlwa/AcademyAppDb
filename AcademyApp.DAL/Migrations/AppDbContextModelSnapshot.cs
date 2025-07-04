@@ -106,6 +106,62 @@ namespace AcademyApp.DAL.Migrations
                     b.ToTable("Students");
                 });
 
+            modelBuilder.Entity("AcademyApp.Core.Entities.Teacher", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<string>("Firstname")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<string>("Lastname")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<string>("PhoneNumber")
+                        .IsRequired()
+                        .HasMaxLength(15)
+                        .HasColumnType("nvarchar(15)");
+
+                    b.Property<string>("Subject")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Teacher");
+                });
+
+            modelBuilder.Entity("AcademyApp.Core.Entities.TeacherGroup", b =>
+                {
+                    b.Property<int>("TeacherId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("GroupId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Id")
+                        .HasColumnType("int");
+
+                    b.HasKey("TeacherId", "GroupId");
+
+                    b.HasIndex("GroupId");
+
+                    b.ToTable("TeacherGroup");
+                });
+
             modelBuilder.Entity("AcademyApp.Core.Entities.Student", b =>
                 {
                     b.HasOne("AcademyApp.Core.Entities.Group", "Group")
@@ -117,9 +173,35 @@ namespace AcademyApp.DAL.Migrations
                     b.Navigation("Group");
                 });
 
+            modelBuilder.Entity("AcademyApp.Core.Entities.TeacherGroup", b =>
+                {
+                    b.HasOne("AcademyApp.Core.Entities.Group", "Group")
+                        .WithMany("TeacherGroups")
+                        .HasForeignKey("GroupId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("AcademyApp.Core.Entities.Teacher", "Teacher")
+                        .WithMany("TeacherGroups")
+                        .HasForeignKey("TeacherId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Group");
+
+                    b.Navigation("Teacher");
+                });
+
             modelBuilder.Entity("AcademyApp.Core.Entities.Group", b =>
                 {
                     b.Navigation("Students");
+
+                    b.Navigation("TeacherGroups");
+                });
+
+            modelBuilder.Entity("AcademyApp.Core.Entities.Teacher", b =>
+                {
+                    b.Navigation("TeacherGroups");
                 });
 #pragma warning restore 612, 618
         }

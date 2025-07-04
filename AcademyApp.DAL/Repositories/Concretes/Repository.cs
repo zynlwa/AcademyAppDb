@@ -2,6 +2,7 @@
 using AcademyApp.DAL.Contexts;
 using AcademyApp.DAL.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Query;
 using System.Linq.Expressions;
 
 namespace AcademyApp.DAL.Repositories.Concretes
@@ -76,6 +77,29 @@ namespace AcademyApp.DAL.Repositories.Concretes
             query=filter == null ? query:query.Where(filter);
             query=query.Skip((page-1)*take).Take(take);
             return query;
+
+        }
+
+        public bool IsExist(Expression<Func<T, bool>> filter)
+        {
+            var query=Table.AsQueryable();
+            if (filter != null)
+                return query.Any(filter);
+            return false;
+        }
+
+        public T? GetById(int id, bool isTracking = false, Func<IQueryable<T>, IIncludableQueryable<T, object>> include = null)
+        {
+            var query = Table.AsQueryable();
+            if (!isTracking)
+            {
+                query = query.AsNoTracking();
+            }
+            if(include != null)
+            {
+                query=include(query);
+            }
+            return query.FirstOrDefault(g=>g.Id==id)
 
         }
     }

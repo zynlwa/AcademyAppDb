@@ -9,3 +9,4 @@ C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.Core\obj\Debug\net8.0\AcademyA
 C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.Core\obj\Debug\net8.0\refint\AcademyApp.Core.dll
 C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.Core\obj\Debug\net8.0\AcademyApp.Core.pdb
 C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.Core\obj\Debug\net8.0\ref\AcademyApp.Core.dll
+C:\Users\zeyna\source\repos\AcademyApp\AcademyApp.Core\obj\Debug\net8.0\AcademyApp.Core.sourcelink.json

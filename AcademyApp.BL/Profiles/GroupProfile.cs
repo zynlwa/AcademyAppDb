@@ -1,4 +1,5 @@
-﻿using AcademyApp.BL.Dtos.Group;
+﻿using AcademyApp.BL.Dtos;
+using AcademyApp.BL.Dtos.Group;
 using AcademyApp.Core.Entities;
 
 namespace AcademyApp.BL.Profiles
@@ -17,6 +18,15 @@ namespace AcademyApp.BL.Profiles
         public static List<GroupReturnDto> GroupsReturnDto(List<Group> groups)
         {
             return groups.Select(g=>GroupReturnDto(g)).ToList();
+        }
+        public static Group GroupCreatedDtoToGroup(GroupCreateDto groupCreateDto)
+        {
+            return new Group
+            {
+                No = groupCreateDto.No,
+                Limit = groupCreateDto.Limit
+
+            };
         }
     }
 }
