@@ -7,6 +7,10 @@ namespace AcademyApp.BL.Services.Interfaces
     {
         void CreateStudent(StudentCreateDto studentCreateDto);
         List<StudentReturnDto> GetAllStudents();
+        StudentReturnDto GetStudentById(int id);
+        void DeleteStudent(int id);
+       
+
 
     }
 }

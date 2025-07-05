@@ -99,8 +99,15 @@ namespace AcademyApp.DAL.Repositories.Concretes
             {
                 query=include(query);
             }
-            return query.FirstOrDefault(g=>g.Id==id)
+            return query.FirstOrDefault(g => g.Id == id);
 
         }
+
+        public async Task<List<T>> GetAllAsync()
+        {
+            return await Table.ToListAsync();
+        }
+
+       
     }
 }

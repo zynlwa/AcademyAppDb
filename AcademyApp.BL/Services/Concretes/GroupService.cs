@@ -1,5 +1,6 @@
 ﻿using AcademyApp.BL.Dtos;
 using AcademyApp.BL.Dtos.Group;
+using AcademyApp.BL.Exceptions;
 using AcademyApp.BL.Profiles;
 using AcademyApp.BL.Services.Interfaces;
 using AcademyApp.Core.Entities;
@@ -48,7 +49,7 @@ namespace AcademyApp.BL.Services.Concretes
         {
             if (_repository.IsExist(g => g.No == groupCreateDto.No))
             {
-                throw new Exception("Movcuddur");
+                throw new EntityDuplicateNameException("Bu adli obyekt movcuddur");
             }
             _repository.Add(GroupProfile.GroupCreatedDtoToGroup(groupCreateDto));
             _repository.Savechanges();

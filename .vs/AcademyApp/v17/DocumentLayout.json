@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6599AFD-E738-4C82-A5E5-1BC5ACFEEBFA}|AcademyApp.BL\\AcademyApp.BL.csproj|c:\\users\\zeyna\\source\\repos\\academyapp\\academyapp.bl\\services\\concretes\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6599AFD-E738-4C82-A5E5-1BC5ACFEEBFA}|AcademyApp.BL\\AcademyApp.BL.csproj|solutionrelative:academyapp.bl\\services\\concretes\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6599AFD-E738-4C82-A5E5-1BC5ACFEEBFA}|AcademyApp.BL\\AcademyApp.BL.csproj|c:\\users\\zeyna\\source\\repos\\academyapp\\academyapp.bl\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6599AFD-E738-4C82-A5E5-1BC5ACFEEBFA}|AcademyApp.BL\\AcademyApp.BL.csproj|solutionrelative:academyapp.bl\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92CD86EA-D562-4296-A942-1FBBF92563D0}|AcademyApp.Core\\AcademyApp.Core.csproj|c:\\users\\zeyna\\source\\repos\\academyapp\\academyapp.core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92CD86EA-D562-4296-A942-1FBBF92563D0}|AcademyApp.Core\\AcademyApp.Core.csproj|solutionrelative:academyapp.core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6599AFD-E738-4C82-A5E5-1BC5ACFEEBFA}|AcademyApp.BL\\AcademyApp.BL.csproj|c:\\users\\zeyna\\source\\repos\\academyapp\\academyapp.bl\\services\\concretes\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6599AFD-E738-4C82-A5E5-1BC5ACFEEBFA}|AcademyApp.BL\\AcademyApp.BL.csproj|solutionrelative:academyapp.bl\\services\\concretes\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3648197A-9466-4584-ADE9-075D465D8968}|AcademyApp.DAL\\AcademyApp.DAL.csproj|c:\\users\\zeyna\\source\\repos\\academyapp\\academyapp.dal\\repositories\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3648197A-9466-4584-ADE9-075D465D8968}|AcademyApp.DAL\\AcademyApp.DAL.csproj|solutionrelative:academyapp.dal\\repositories\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6599AFD-E738-4C82-A5E5-1BC5ACFEEBFA}|AcademyApp.BL\\AcademyApp.BL.csproj|c:\\users\\zeyna\\source\\repos\\academyapp\\academyapp.bl\\exceptions\\entityduplicatenameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6599AFD-E738-4C82-A5E5-1BC5ACFEEBFA}|AcademyApp.BL\\AcademyApp.BL.csproj|solutionrelative:academyapp.bl\\exceptions\\entityduplicatenameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3648197A-9466-4584-ADE9-075D465D8968}|AcademyApp.DAL\\AcademyApp.DAL.csproj|c:\\users\\zeyna\\source\\repos\\academyapp\\academyapp.dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3648197A-9466-4584-ADE9-075D465D8968}|AcademyApp.DAL\\AcademyApp.DAL.csproj|solutionrelative:academyapp.dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06928666-ECD0-498C-9526-654598E88290}|AcademyApp.PL\\AcademyApp.PL.csproj|c:\\users\\zeyna\\source\\repos\\academyapp\\academyapp.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06928666-ECD0-498C-9526-654598E88290}|AcademyApp.PL\\AcademyApp.PL.csproj|solutionrelative:academyapp.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3648197A-9466-4584-ADE9-075D465D8968}|AcademyApp.DAL\\AcademyApp.DAL.csproj|c:\\users\\zeyna\\source\\repos\\academyapp\\academyapp.dal\\repositories\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3648197A-9466-4584-ADE9-075D465D8968}|AcademyApp.DAL\\AcademyApp.DAL.csproj|solutionrelative:academyapp.dal\\repositories\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92CD86EA-D562-4296-A942-1FBBF92563D0}|AcademyApp.Core\\AcademyApp.Core.csproj|c:\\users\\zeyna\\source\\repos\\academyapp\\academyapp.core\\entities\\common\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92CD86EA-D562-4296-A942-1FBBF92563D0}|AcademyApp.Core\\AcademyApp.Core.csproj|solutionrelative:academyapp.core\\entities\\common\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6599AFD-E738-4C82-A5E5-1BC5ACFEEBFA}|AcademyApp.BL\\AcademyApp.BL.csproj|c:\\users\\zeyna\\source\\repos\\academyapp\\academyapp.bl\\services\\concretes\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6599AFD-E738-4C82-A5E5-1BC5ACFEEBFA}|AcademyApp.BL\\AcademyApp.BL.csproj|solutionrelative:academyapp.bl\\services\\concretes\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6599AFD-E738-4C82-A5E5-1BC5ACFEEBFA}|AcademyApp.BL\\AcademyApp.BL.csproj|c:\\users\\zeyna\\source\\repos\\academyapp\\academyapp.bl\\profiles\\groupprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6599AFD-E738-4C82-A5E5-1BC5ACFEEBFA}|AcademyApp.BL\\AcademyApp.BL.csproj|solutionrelative:academyapp.bl\\profiles\\groupprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6599AFD-E738-4C82-A5E5-1BC5ACFEEBFA}|AcademyApp.BL\\AcademyApp.BL.csproj|c:\\users\\zeyna\\source\\repos\\academyapp\\academyapp.bl\\profiles\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6599AFD-E738-4C82-A5E5-1BC5ACFEEBFA}|AcademyApp.BL\\AcademyApp.BL.csproj|solutionrelative:academyapp.bl\\profiles\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6599AFD-E738-4C82-A5E5-1BC5ACFEEBFA}|AcademyApp.BL\\AcademyApp.BL.csproj|c:\\users\\zeyna\\source\\repos\\academyapp\\academyapp.bl\\dtos\\student\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6599AFD-E738-4C82-A5E5-1BC5ACFEEBFA}|AcademyApp.BL\\AcademyApp.BL.csproj|solutionrelative:academyapp.bl\\dtos\\student\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CD86EA-D562-4296-A942-1FBBF92563D0}|AcademyApp.Core\\AcademyApp.Core.csproj|c:\\users\\zeyna\\source\\repos\\academyapp\\academyapp.core\\academyapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92CD86EA-D562-4296-A942-1FBBF92563D0}|AcademyApp.Core\\AcademyApp.Core.csproj|solutionrelative:academyapp.core\\academyapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,33 +46,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Group.cs",
-              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.Core\\Entities\\Group.cs",
-              "RelativeDocumentMoniker": "AcademyApp.Core\\Entities\\Group.cs",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.Core\\Entities\\Group.cs",
-              "RelativeToolTip": "AcademyApp.Core\\Entities\\Group.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAACiAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "EntityDuplicateNameException.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.BL\\Exceptions\\EntityDuplicateNameException.cs",
+              "RelativeDocumentMoniker": "AcademyApp.BL\\Exceptions\\EntityDuplicateNameException.cs",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.BL\\Exceptions\\EntityDuplicateNameException.cs",
+              "RelativeToolTip": "AcademyApp.BL\\Exceptions\\EntityDuplicateNameException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T10:29:41.286Z",
-              "IsPinned": true
+              "WhenOpened": "2025-07-05T08:44:58.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.BL\\Services\\Concretes\\StudentService.cs",
+              "RelativeDocumentMoniker": "AcademyApp.BL\\Services\\Concretes\\StudentService.cs",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.BL\\Services\\Concretes\\StudentService.cs",
+              "RelativeToolTip": "AcademyApp.BL\\Services\\Concretes\\StudentService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T08:05:28.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.BL\\Dtos\\Student\\StudentCreateDto.cs",
+              "RelativeDocumentMoniker": "AcademyApp.BL\\Dtos\\Student\\StudentCreateDto.cs",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.BL\\Dtos\\Student\\StudentCreateDto.cs",
+              "RelativeToolTip": "AcademyApp.BL\\Dtos\\Student\\StudentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T08:04:43.931Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AuditEntity.cs",
-              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.Core\\Entities\\Common\\AuditEntity.cs",
-              "RelativeDocumentMoniker": "AcademyApp.Core\\Entities\\Common\\AuditEntity.cs",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.Core\\Entities\\Common\\AuditEntity.cs",
-              "RelativeToolTip": "AcademyApp.Core\\Entities\\Common\\AuditEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.BL\\Services\\Concretes\\GroupService.cs",
+              "RelativeDocumentMoniker": "AcademyApp.BL\\Services\\Concretes\\GroupService.cs",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.BL\\Services\\Concretes\\GroupService.cs",
+              "RelativeToolTip": "AcademyApp.BL\\Services\\Concretes\\GroupService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwCsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T10:29:43.059Z",
-              "IsPinned": true
+              "WhenOpened": "2025-07-05T07:53:23.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AcademyApp.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.Core\\AcademyApp.Core.csproj",
+              "RelativeDocumentMoniker": "AcademyApp.Core\\AcademyApp.Core.csproj",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.Core\\AcademyApp.Core.csproj",
+              "RelativeToolTip": "AcademyApp.Core\\AcademyApp.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T07:53:17.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.BL\\Profiles\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "AcademyApp.BL\\Profiles\\StudentProfile.cs",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.BL\\Profiles\\StudentProfile.cs",
+              "RelativeToolTip": "AcademyApp.BL\\Profiles\\StudentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:53:14.135Z"
             },
             {
               "$type": "Document",
@@ -74,58 +128,34 @@
               "RelativeDocumentMoniker": "AcademyApp.DAL\\Repositories\\Interfaces\\IRepository.cs",
               "ToolTip": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.DAL\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "AcademyApp.DAL\\Repositories\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T11:47:26.905Z"
+              "WhenOpened": "2025-07-05T07:50:53.83Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.PL\\Program.cs",
-              "RelativeDocumentMoniker": "AcademyApp.PL\\Program.cs",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.PL\\Program.cs",
-              "RelativeToolTip": "AcademyApp.PL\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T10:42:42.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GroupService.cs",
-              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.BL\\Services\\Concretes\\GroupService.cs",
-              "RelativeDocumentMoniker": "AcademyApp.BL\\Services\\Concretes\\GroupService.cs",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.BL\\Services\\Concretes\\GroupService.cs",
-              "RelativeToolTip": "AcademyApp.BL\\Services\\Concretes\\GroupService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T10:31:19.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.DAL\\Repositories\\Concretes\\Repository.cs",
               "RelativeDocumentMoniker": "AcademyApp.DAL\\Repositories\\Concretes\\Repository.cs",
               "ToolTip": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.DAL\\Repositories\\Concretes\\Repository.cs",
               "RelativeToolTip": "AcademyApp.DAL\\Repositories\\Concretes\\Repository.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGUAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAqwG4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T10:30:01.747Z"
+              "WhenOpened": "2025-07-05T07:50:47.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GroupProfile.cs",
-              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.BL\\Profiles\\GroupProfile.cs",
-              "RelativeDocumentMoniker": "AcademyApp.BL\\Profiles\\GroupProfile.cs",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.BL\\Profiles\\GroupProfile.cs",
-              "RelativeToolTip": "AcademyApp.BL\\Profiles\\GroupProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.BL\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "AcademyApp.BL\\Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\AcademyApp\\AcademyApp.BL\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "AcademyApp.BL\\Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T10:29:33.515Z"
+              "WhenOpened": "2025-07-05T07:50:33.837Z",
+              "EditorCaption": ""
             }
           ]
         }
